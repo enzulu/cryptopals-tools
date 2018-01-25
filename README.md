@@ -1,5 +1,8 @@
 # cryptopals-tools
-My collection of tools for solving the challenges in cryptopals
+My collection of tools, so far, for solving the challenges in cryptopals
+
+The Cryptopals Crypto Challenges:
+https://cryptopals.com/
 
 fixed_XOR.py 
 - implements XOR between two hexadecimal strings
