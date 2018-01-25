@@ -1,0 +1,3 @@
+def etaoin_scorer(text):
+	for i in text:
+		
